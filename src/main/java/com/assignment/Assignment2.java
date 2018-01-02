@@ -1,4 +1,4 @@
-package com.datamatica.assignment;
+package com.assignment;
 
 import java.io.Serializable;
 import java.util.Map;
